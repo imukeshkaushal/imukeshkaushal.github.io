@@ -267,6 +267,9 @@ export default function Home() {
                     target="_blank"
                     rel="noreferrer"
                     download="Mukesh_Kaushal_Resume.pdf"
+                    onClick={()=> window.open(
+                      "https://drive.google.com/file/d/1ZrqRrRlDK5BMtD2JMXIn2Kc6hocr7j-S/view"
+                    )}
                   >
                     Resume
                   </a>
