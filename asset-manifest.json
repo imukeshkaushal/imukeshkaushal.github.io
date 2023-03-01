@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.9feb6a35.css",
-    "main.js": "/static/js/main.d3f82c85.js",
+    "main.js": "/static/js/main.acd29c3d.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Mukesh_Kaushal_Resume.pdf": "/static/media/Mukesh_Kaushal_Resume.69b4fbb272cd954aa5bf.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.9feb6a35.css.map": "/static/css/main.9feb6a35.css.map",
-    "main.d3f82c85.js.map": "/static/js/main.d3f82c85.js.map",
+    "main.acd29c3d.js.map": "/static/js/main.acd29c3d.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9feb6a35.css",
-    "static/js/main.d3f82c85.js"
+    "static/js/main.acd29c3d.js"
   ]
 }
